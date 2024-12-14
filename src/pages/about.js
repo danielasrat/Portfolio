@@ -39,7 +39,7 @@ const about = () => {
         <title>DanielAsrat | About Page</title>
         <meta name="description" content="any decription" />
       </Head>
-      <main className="flex w-full flex-col items-center justify-center ">
+      <main className="flex w-full flex-col items-center justify-center dark:text-light">
         <Layout className="pt-16">
           <AnimatedText
             text="Passion Fuels Purpose!"
